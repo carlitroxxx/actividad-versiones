@@ -15,7 +15,7 @@ public class ActividadController {
     }
     @PostMapping
     public String despedida(){
-        return "chaooooooooooo";
+        return "chaooooooooooo, simulación";
     }
 
 
