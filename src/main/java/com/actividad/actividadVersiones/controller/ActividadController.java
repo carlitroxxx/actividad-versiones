@@ -13,5 +13,10 @@ public class ActividadController {
     public String saludo(){
         return "holaaaaaaaa";
     }
+    @PostMapping
+    public String despedida(){
+        return "chaooooooooooo";
+    }
+
 
 }
